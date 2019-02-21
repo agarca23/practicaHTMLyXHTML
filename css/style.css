@@ -1,0 +1,32 @@
+table{
+    width: 100%;
+}
+
+.impar{
+    background-color: #66ff99;
+}
+
+.par{
+    background-color: #33cc33;
+}
+
+.fotoLibro{
+    width: 100px;
+}
+
+img.fotoLibro{
+    float: left;
+}
+.fotoGrande{
+    width: 300px;
+}
+
+.ficha{
+    background: #66ff99;
+}
+p.p1{
+    background-color: #00ffff;
+}
+p.p2{
+    background-color: #ffffff;
+}
